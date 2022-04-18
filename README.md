@@ -1,1 +1,3 @@
-# repo1
+hi everyone 
+welcome to git hub
+doing well
